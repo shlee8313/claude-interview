@@ -72,8 +72,7 @@ project/
 ├── src/               # 소스 코드
 └── .claude/
     └── skills/
-        └── interview/
-            └── SKILL.md
+        └── interview-skill.md
 ```
 
 ## 기술 스택 (기본값)
